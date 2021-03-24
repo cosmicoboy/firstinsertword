@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    background-size: 100%;
+    /* background: linear-gradient(45deg,rgb(4, 56, 77), rgb(138, 137, 221)); */
+    background-image: url("https://static.wikia.nocookie.net/hades_gamepedia_en/images/a/ac/Patroclus.png/revision/latest/scale-to-width-down/588?cb=20190514194014");
+    background-repeat: no-repeat;
+    background-color: rgb(100, 148, 237, 0.308);
+}
+
+.container{
+    background: linear-gradient(rgba(69, 120, 124, 0.623), rgba(30, 132, 163, 0.438));
+    height: 1000px;
+    border-radius: 100px;
+}
+
+#newnewdata{
+    color: rgb(255, 255, 255);
+    font-size: 80px;
+    font-weight: 900 !important;
+    font-family: 'Train One', cursive;
+}
+#boton{
+    border-radius: 50px;
+    padding: 20px;
+    font-weight: bold;
+    background-color: darkcyan;
+    font-family: 'Train One', cursive;
+    font-size: larger;
+}
+#boton:hover{
+    background-color: darkorchid;
+    width: 200px;
+
+}
+
+#text{
+    background-color: dodgerblue;
+    border-radius: 40px;
+    margin: 50px;
+}
